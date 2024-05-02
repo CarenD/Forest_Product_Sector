@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FPS": {
+      "commandName": "Project",
+      "commandLineArgs": "FPS_main5_noMU-11-Dec-2023.txt",
+      "workingDirectory": "C:\\Users\\drobinson\\New DropBox\\d_global\\Projects\\EN2500to2599\\EN2585 - Landis Updates 2019\\FPS code\\InputFiles\\Example"
+    }
+  }
+}
