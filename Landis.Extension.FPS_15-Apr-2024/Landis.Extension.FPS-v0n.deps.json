@@ -1,0 +1,109 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Landis.Extension.FPS-v0n/0.1.2": {
+        "dependencies": {
+          "Landis.Core": "2.0.0.0",
+          "Landis.Library.Metadata-v2": "2.0.0.0",
+          "Landis.Library.Parameters-v2": "2.0.0.0",
+          "Landis.Utilities": "2.0.0.0",
+          "log4net": "2.0.8.0",
+          "MathNet.Numerics": "5.0.0.0"
+        },
+        "runtime": {
+          "Landis.Extension.FPS-v0n.dll": {}
+        }
+      },
+      "Landis.Core/2.0.0.0": {
+        "runtime": {
+          "Landis.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "7.0.0.0"
+          }
+        }
+      },
+      "Landis.Library.Metadata-v2/2.0.0.0": {
+        "runtime": {
+          "Landis.Library.Metadata-v2.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "Landis.Library.Parameters-v2/2.0.0.0": {
+        "runtime": {
+          "Landis.Library.Parameters-v2.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "Landis.Utilities/2.0.0.0": {
+        "runtime": {
+          "Landis.Utilities.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "7.0.0.0"
+          }
+        }
+      },
+      "log4net/2.0.8.0": {
+        "runtime": {
+          "log4net.dll": {
+            "assemblyVersion": "2.0.8.0",
+            "fileVersion": "2.0.8.0"
+          }
+        }
+      },
+      "MathNet.Numerics/5.0.0.0": {
+        "runtime": {
+          "MathNet.Numerics.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Landis.Extension.FPS-v0n/0.1.2": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Landis.Core/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Landis.Library.Metadata-v2/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Landis.Library.Parameters-v2/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Landis.Utilities/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "log4net/2.0.8.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathNet.Numerics/5.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
